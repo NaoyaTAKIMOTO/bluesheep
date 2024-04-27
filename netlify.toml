@@ -1,7 +1,17 @@
-[build.environment]
-HUGO_VERSION = "0.124.0"
-TZ = "America/Los_Angeles"
-
 [build]
-publish = "public"
-command = "hugo --gc --minify"
+  publish = "public" # Hugoのビルドアウトプットディレクトリを指定
+  command = "hugo" # Hugoをビルドするコマンド
+
+[context.production.environment]
+  HUGO_VERSION = "0.124.0" # Hugoのバージョンを指定
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/*"
+    [headers.values]
+      X-Frame-Options = "DENY"
+      X-XSS-Protection = "1; mode=block"
