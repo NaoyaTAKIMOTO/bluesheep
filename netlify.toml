@@ -3,7 +3,7 @@
   command = "hugo" # Hugoをビルドするコマンド
 
 [context.production.environment]
-  HUGO_VERSION = "0.124.0" # Hugoのバージョンを指定
+  HUGO_VERSION = "0.120.0" # Hugoのバージョンを指定
 
 [[redirects]]
   from = "/*"
