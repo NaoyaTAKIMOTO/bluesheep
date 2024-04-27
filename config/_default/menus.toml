@@ -1,0 +1,23 @@
+# config/_default/menus.en.toml
+
+[[main]]
+  name = "Blog"
+  pageRef = "posts"
+  weight = 10
+
+[[main]]
+  name = "参加お問合せ"
+  pageRef = "contact"
+  weight = 10
+
+
+[[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
+    icon = "search"
+
+[[footer]]
+  name = "Privacy"
+  pageRef = "privacy"

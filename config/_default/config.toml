@@ -1,0 +1,16 @@
+baseURL = 'https://bluesheep.space'
+languageCode = 'ja'
+title = 'Blue Sheep'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[deployment]
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "production"
+
+# Google Cloud Storage -- see https://gocloud.dev/howto/blob/#gcs
+URL = "gs://band-homepage"

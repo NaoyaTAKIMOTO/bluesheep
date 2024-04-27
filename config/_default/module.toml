@@ -1,0 +1,15 @@
+[[imports]]
+path = "github.com/jpanther/congo/v2"
+
+
+[params.author]
+name = "サブカル科学研究会"
+image = "img/author.jpg"
+headline = "Blue Sheep主催者"
+bio = "Blue Sheep主催者。ギターが好き。"
+links = [
+  { twitter = "https://twitter.com/username" }
+]
+
+
+
