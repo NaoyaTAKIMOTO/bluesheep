@@ -2,94 +2,108 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blue Sheepへようこそ! on Blue Sheep</title>
-    <link>https://bluesheep.space/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Blue Sheepへようこそ! on Blue Sheep</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 May 2024 08:07:25 +0900</lastBuildDate>
-    <atom:link href="https://bluesheep.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 01 Aug 2024 04:53:09 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20240721　バンド練習</title>
+      <link>http://localhost:1313/posts/20240721/</link>
+      <pubDate>Thu, 01 Aug 2024 04:53:09 +0900</pubDate>
+      <guid>http://localhost:1313/posts/20240721/</guid>
+      <description>バンド練 メンバー #参加者はボーカル、ギター、ベース、ドラムの4人でした。 今のフルメンバーですね。&#xA;音源 #easy come, easy go # 第ゼロ感 # I&amp;rsquo;m a mess # 雑感 # ライブパフォーマンスというか演奏中の動きに注力していきたい ボーカルの動きとアレンジに注目！ </description>
+    </item>
+    <item>
+      <title>20240623　バンド練</title>
+      <link>http://localhost:1313/posts/20240623/</link>
+      <pubDate>Thu, 01 Aug 2024 04:52:56 +0900</pubDate>
+      <guid>http://localhost:1313/posts/20240623/</guid>
+      <description>バンド練 メンバー #参加者はボーカル、ギター2、ベース、ドラムの5人でした。&#xA;一人ギターが見学に来てくれました。&#xA;音源 #easy come, easy go # 第ゼロ感 # I&amp;rsquo;m a mess # 雑感 # ライブパフォーマンスというか演奏中の動きに注力していきたい 初めて第ゼロ感がうまくできた！楽しい！ </description>
+    </item>
     <item>
       <title>20240512 バンド練</title>
-      <link>https://bluesheep.space/posts/20240512/</link>
+      <link>http://localhost:1313/posts/20240512/</link>
       <pubDate>Tue, 28 May 2024 08:07:25 +0900</pubDate>
-      <guid>https://bluesheep.space/posts/20240512/</guid>
-      <description>バンド練 メンバー #参加者はボーカル、ギター、ベースの三人でした。&#xA;ドラムの方は都合がつかなかったのでリズムマシーンで対応しました。&#xA;音源 #easy come, easy go # 第ゼロ巻 # I&amp;rsquo;m a mess # 雑感 # ギタボやるよりもボーカル専門の人の方が声の表情が細かく入りますね。ギタボの練習の余地を実感しました。 ベースの方が着々と曲を覚えていっているので次回あたりはフルで入ってもらえそう！ 撮影用に三脚を用意する必要性をひしひしと感じました。なんとかメンバー全員を画角に収めたい。 スマホでほぼ二時間連続撮影できたので機材自体はこれでも良さそう。 </description>
+      <guid>http://localhost:1313/posts/20240512/</guid>
+      <description>バンド練 メンバー #参加者はボーカル、ギター、ベースの三人でした。&#xA;ドラムの方は都合がつかなかったのでリズムマシーンで対応しました。&#xA;音源 #easy come, easy go # 第ゼロ感 # I&amp;rsquo;m a mess # 雑感 # ギタボやるよりもボーカル専門の人の方が声の表情が細かく入りますね。ギタボの練習の余地を実感しました。 ベースの方が着々と曲を覚えていっているので次回あたりはフルで入ってもらえそう！ 撮影用に三脚を用意する必要性をひしひしと感じました。なんとかメンバー全員を画角に収めたい。 スマホでほぼ二時間連続撮影できたので機材自体はこれでも良さそう。 </description>
     </item>
     <item>
       <title>20240430 バンド練</title>
-      <link>https://bluesheep.space/posts/20240430/</link>
+      <link>http://localhost:1313/posts/20240430/</link>
       <pubDate>Tue, 30 Apr 2024 23:44:19 +0900</pubDate>
-      <guid>https://bluesheep.space/posts/20240430/</guid>
+      <guid>http://localhost:1313/posts/20240430/</guid>
       <description>バンド練 メンバー #参加者はギター、ベース、ドラムの三人でした。&#xA;ボーカルの方は都合がつかなかったので急遽ギタボで対応しました。&#xA;I&amp;rsquo;m a mess #【演奏してみた】I&#39;m a mess_2【バンドカバー】 easy come, eacy go #【演奏してみた】easy come, easy go_2【バンドカバー】 第ゼロ感 #【演奏してみた】第ゼロ感【バンドカバー】 雑感 # ギタボ難しいね。録音した自分の声を聞く気持ち悪さはどうしたらいいのやら。 ベースが入ると完成度が上がりますね！今回ベースが弾けると　easy come, easy goだけでしたが次回以降他の楽曲にも参加できる割合が増えてくるともっと楽しめそう！ 帰りにつけ麺食べて帰りました。多分、ギターの食べる速度が速い。デブの早食い。 </description>
     </item>
     <item>
       <title>20240407バンド練</title>
-      <link>https://bluesheep.space/posts/20240407/</link>
+      <link>http://localhost:1313/posts/20240407/</link>
       <pubDate>Tue, 09 Apr 2024 09:16:33 +0900</pubDate>
-      <guid>https://bluesheep.space/posts/20240407/</guid>
+      <guid>http://localhost:1313/posts/20240407/</guid>
       <description>バンド練 メンバー #参加者はボーカル、ギター、ドラムの三人でした。&#xA;easy come, easy go # Your browser does not support the audio element. Your browser does not support the audio element. 第０感 # Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. I&amp;rsquo;m a mess # Your browser does not support the audio element.</description>
     </item>
     <item>
       <title>20240324</title>
-      <link>https://bluesheep.space/posts/20240324/</link>
+      <link>http://localhost:1313/posts/20240324/</link>
       <pubDate>Mon, 25 Mar 2024 05:27:40 +0900</pubDate>
-      <guid>https://bluesheep.space/posts/20240324/</guid>
+      <guid>http://localhost:1313/posts/20240324/</guid>
       <description>バンド練 メンバー #参加者はボーカル、ギター、ドラムの三人でした。&#xA;easy come, easy go # Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. ミュージック・アワー # Your browser does not support the audio element. Your browser does not support the audio element. I&amp;rsquo;m a mess # Your browser does not support the audio element.</description>
     </item>
     <item>
       <title>20240223</title>
-      <link>https://bluesheep.space/posts/20240223/</link>
+      <link>http://localhost:1313/posts/20240223/</link>
       <pubDate>Wed, 28 Feb 2024 17:22:26 +0900</pubDate>
-      <guid>https://bluesheep.space/posts/20240223/</guid>
+      <guid>http://localhost:1313/posts/20240223/</guid>
       <description>バンド練 メンバー #参加者はボーカル、ギター、ドラムの三人でした。&#xA;ドラムの方がノートパソコンを持参して演奏動画を参考にしながらドラムを叩いていたのが印象的でした。&#xA;easy come, easy go # Your browser does not support the audio element. Your browser does not support the audio element. I&amp;rsquo;m a mess # Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. 改善点 # ドラムの音量が大きい 部屋を大きくする ギターをアンプの裏から接続する もしくはミキサーに直接接続する </description>
     </item>
     <item>
       <title>20231203</title>
-      <link>https://bluesheep.space/posts/20231203/</link>
+      <link>http://localhost:1313/posts/20231203/</link>
       <pubDate>Thu, 01 Feb 2024 17:46:27 +0900</pubDate>
-      <guid>https://bluesheep.space/posts/20231203/</guid>
+      <guid>http://localhost:1313/posts/20231203/</guid>
       <description>バンド練　メンバー #ボーカル、ギター&#xA;音源 #easy come, easu go # Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. I&amp;rsquo;m a mess # Your browser does not support the audio element. Your browser does not support the audio element. </description>
     </item>
     <item>
       <title>20231015</title>
-      <link>https://bluesheep.space/posts/20231015/</link>
+      <link>http://localhost:1313/posts/20231015/</link>
       <pubDate>Thu, 01 Feb 2024 17:46:20 +0900</pubDate>
-      <guid>https://bluesheep.space/posts/20231015/</guid>
+      <guid>http://localhost:1313/posts/20231015/</guid>
       <description>バンド練 メンバー #参加者はボーカル、ギター、キーボードの三人でした。&#xA;easy come, easy go # Your browser does not support the audio element. Your browser does not support the audio element. I&amp;rsquo;m a mess # Your browser does not support the audio element. Your browser does not support the audio element. </description>
     </item>
     <item>
       <title>20230820</title>
-      <link>https://bluesheep.space/posts/20230820/</link>
+      <link>http://localhost:1313/posts/20230820/</link>
       <pubDate>Thu, 01 Feb 2024 17:46:10 +0900</pubDate>
-      <guid>https://bluesheep.space/posts/20230820/</guid>
+      <guid>http://localhost:1313/posts/20230820/</guid>
       <description>音源 # Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. </description>
     </item>
     <item>
       <title>20230806</title>
-      <link>https://bluesheep.space/posts/20230806/</link>
+      <link>http://localhost:1313/posts/20230806/</link>
       <pubDate>Thu, 01 Feb 2024 17:45:59 +0900</pubDate>
-      <guid>https://bluesheep.space/posts/20230806/</guid>
+      <guid>http://localhost:1313/posts/20230806/</guid>
       <description> Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. </description>
     </item>
     <item>
       <title>20240128</title>
-      <link>https://bluesheep.space/posts/20240128/</link>
+      <link>http://localhost:1313/posts/20240128/</link>
       <pubDate>Mon, 29 Jan 2024 17:41:55 +0900</pubDate>
-      <guid>https://bluesheep.space/posts/20240128/</guid>
+      <guid>http://localhost:1313/posts/20240128/</guid>
       <description>バンド練 #参加者はボーカル、ギター、ドラムの三人でした。&#xA;音源 #easy come, easy go # Your browser does not support the audio element. Your browser does not support the audio element. I&amp;rsquo;m a mess # Your browser does not support the audio element. Your browser does not support the audio element. Your browser does not support the audio element. </description>
     </item>
     <item>
       <title>参加お問合せフォーム</title>
-      <link>https://bluesheep.space/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Wed, 24 Jan 2024 18:37:51 +0900</pubDate>
-      <guid>https://bluesheep.space/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>参加お問合せフォーム #読み込んでいます… </description>
     </item>
     <item>
       <title></title>
-      <link>https://bluesheep.space/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://bluesheep.space/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>このサイトについて #</description>
     </item>
   </channel>
