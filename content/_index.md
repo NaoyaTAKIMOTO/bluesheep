@@ -10,15 +10,11 @@ description: "メインページのコンテンツ"
 
 
 ### 音源
+#### 2025/Feb/16
+{{< youtube id=gitsAgBT8vI start=1740 >}}
 
 
 #### 2024/Jan/28
 {{<youtube 9DSoB02AGeQ>}}
 
 {{<youtube Ej5s9iZ0zCs>}}
-
-#### 2023
-
-{{< youtube n3eDdP4QH7M >}}
-
-{{< youtube FwbZk9udAvM >}}
