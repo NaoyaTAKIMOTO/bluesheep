@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
   <meta name="description" content="{{ .Description | default .Site.Params.description }}">
-  <link rel="icon" href="{{ "favicon.ico" | relURL }}">
+  <link rel="icon" type="image/svg+xml" href="{{ "image/blue-sheep-icon.svg" | relURL }}">
   {{ with .OutputFormats.Get "rss" }}<link rel="alternate" type="application/rss+xml" href="{{ .Permalink }}" title="Blue Sheep">{{ end }}
   <link rel="canonical" href="{{ .Permalink }}">
   <meta property="og:title" content="{{ .Title }}">
@@ -18,10 +18,10 @@
 <body>
   <a class="skip-link" href="#main-content">本文へ移動</a>
   <header class="site-header wrap">
-    <a class="brand" href="{{ "/" | relURL }}">Blue Sheep<span>音楽を持ち寄る、日曜日。</span></a>
+    <a class="brand" href="{{ "/" | relURL }}"><img class="brand-logo" src="{{ "image/blue-sheep-logo.svg" | relURL }}" alt="Blue Sheep" width="228" height="52"><span>音楽を持ち寄る、日曜日。</span></a>
     <nav aria-label="メインメニュー"><a href="{{ "/posts/" | relURL }}" {{ if eq .Section "posts" }}aria-current="page"{{ end }}>活動記録</a><a class="nav-contact" href="{{ "/contact/" | relURL }}" {{ if eq .RelPermalink "/contact/" }}aria-current="page"{{ end }}>参加・お問い合わせ</a></nav>
   </header>
   <main id="main-content">{{ block "main" . }}{{ end }}</main>
-  <footer class="site-footer wrap"><a class="brand" href="{{ "/" | relURL }}">Blue Sheep</a><p>新宿を中心に活動するセッショングループ</p><small>© {{ now.Year }} Blue Sheep</small></footer>
+  <footer class="site-footer wrap"><a class="brand" href="{{ "/" | relURL }}"><img class="brand-logo" src="{{ "image/blue-sheep-logo.svg" | relURL }}" alt="Blue Sheep" width="228" height="52"></a><p>新宿を中心に活動するセッショングループ</p><small>© {{ now.Year }} Blue Sheep</small></footer>
 </body>
 </html>
