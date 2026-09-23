@@ -556,3 +556,15 @@ p+p {
   .site-header { flex-wrap:wrap; padding-block:16px; }
   .site-header nav { width:100%; justify-content:space-between; }
 }
+
+.video-intro { max-width:760px; margin:18px 0; color:var(--muted); }
+.video-search { max-width:560px; margin-top:28px; }
+.video-search label { display:block; font-weight:650; margin-bottom:8px; }
+.video-search input { width:100%; min-height:48px; border:1px solid var(--line); border-radius:6px; padding:12px 14px; font:inherit; color:var(--ink); background:white; }
+.video-search input:focus-visible { outline:3px solid var(--blue); outline-offset:2px; }
+.video-count { margin:24px 0 16px; color:var(--muted); font-size:14px; }
+.performance-card h2 { font-size:19px; }
+.performance-card h2 a { color:var(--ink); text-decoration:none; }
+.performance-card h2 a::after { content:""; position:absolute; inset:0; }
+.performance-card .eyebrow { font-size:11px; margin-bottom:8px; color:var(--blue); }
+.performance-grid [hidden], .video-search[hidden], #video-empty[hidden] { display:none; }

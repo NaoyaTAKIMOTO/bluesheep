@@ -19,7 +19,7 @@
   <a class="skip-link" href="#main-content">本文へ移動</a>
   <header class="site-header wrap">
     <a class="brand" href="{{ "/" | relURL }}"><img class="brand-logo" src="{{ "image/blue-sheep-logo.svg" | relURL }}" alt="Blue Sheep" width="228" height="52"><span>音楽を持ち寄る、日曜日。</span></a>
-    <nav aria-label="メインメニュー"><a href="{{ "/posts/" | relURL }}" {{ if eq .Section "posts" }}aria-current="page"{{ end }}>活動記録</a><a class="nav-contact" href="{{ "/contact/" | relURL }}" {{ if eq .RelPermalink "/contact/" }}aria-current="page"{{ end }}>参加・お問い合わせ</a></nav>
+    <nav aria-label="メインメニュー"><a href="{{ "/videos/" | relURL }}" {{ if eq .Type "videos" }}aria-current="page"{{ end }}>演奏動画</a><a href="{{ "/posts/" | relURL }}" {{ if eq .Section "posts" }}aria-current="page"{{ end }}>活動記録</a><a class="nav-contact" href="{{ "/contact/" | relURL }}" {{ if eq .RelPermalink "/contact/" }}aria-current="page"{{ end }}>参加・お問い合わせ</a></nav>
   </header>
   <main id="main-content">{{ block "main" . }}{{ end }}</main>
   <footer class="site-footer wrap"><a class="brand" href="{{ "/" | relURL }}"><img class="brand-logo" src="{{ "image/blue-sheep-logo.svg" | relURL }}" alt="Blue Sheep" width="228" height="52"></a><p>新宿を中心に活動するセッショングループ</p><small>© {{ now.Year }} Blue Sheep</small></footer>
